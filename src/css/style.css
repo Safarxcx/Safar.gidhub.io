@@ -1,0 +1,388 @@
+nav{
+	width: 100%;
+	height: 60px;
+	background: #344051;
+}
+.logo{
+	color: #fff;
+	font-size: 28px;
+	line-height: 60px;
+	padding-left: 388px;
+	float: left;
+}
+.menu{
+	float: left;
+	padding-left: 432px;
+}
+.menu li{
+	float: left;
+	line-height: 60px;
+	color: #fff;
+	margin-right: 40px;
+	font-size: 16px;
+
+}
+.main{
+	width: 100%;
+	height: calc(100% - 60px);
+	background: url("../img/boy.png") 90% 100%/auto 85% no-repeat, url("../img/fon.jpg") center/cover no-repeat;
+}
+.title_container{
+	float: left;
+	margin: 432px 0px 0px 404px;
+	color: #2c384a;
+}
+.title_container h1{
+	font-size: 60px;
+	font-weight: bold;
+}
+.title_container h4{
+	margin-top: 40px;
+	font-size: 22px;
+	color: #79818d;
+}
+.title_container input{
+	height: 40px;
+	text-align: center;
+	border: 2px solid #6d7682;
+	background: none;
+	border-radius: 5px;
+	color: #6d7682;
+	font-size: 13px;
+	padding: 0px 16px;
+	margin: 50px 14px 0px 14px
+}
+.aboutme{
+	float: left;
+	padding-left: 477px;
+	margin-top: 80px;
+    text-transform: uppercase;
+    font-weight: bold;
+	width: 100%;
+	height: calc(100% - 60px);
+}
+.cherta{
+	padding-left: 477px;
+	margin-top: 32px;
+	
+}
+.andrey{
+	margin-top: 64px;
+	line-height: 60px;
+	padding-left: -21%;
+}
+.lorem1{
+	text-align: left;
+	margin-top: 4%;
+	margin-bottom: 4%;
+	padding-left: 50px;
+	color: 8f949c;
+	font-size: 71%;
+}
+.lorem2{
+	text-align: left;
+	padding-left: 50px;
+	font-size: 71%;
+	color: 8f949c;
+}
+.knopka{
+margin-top: 64px;
+padding-left: 890px;
+}
+.whatican{
+	float: left;
+	padding-left: 868px;
+	margin-top: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 128%;
+	
+	
+}
+.cherta2{
+	text-align: center;
+	margin-top: 32px;
+}
+.fon2{
+	width: 100%;
+	height: calc(100% - 490px); 
+	background: url("../img/computer.png") 511px 50%/auto 40px no-repeat, url("../img/znak.png") 786px 50%/auto 40px no-repeat,
+	url("../img/raketa.png") 1088px 50%/auto 40px no-repeat, url("../img/gramafon.png") 1374px 50%/auto 40px no-repeat,
+	url("../img/fon2.jpg") no-repeat center/cover;
+	margin-top: 46px;
+	margin-left: -25%;
+}
+.item_ability1{
+	margin-left: 464px;
+	font-size: 65%;
+	margin-top: 342px;
+}
+.web_design{
+	color: #cf7600;
+	font-size: 144%;
+	padding-left: 48px;
+	margin-top: 342px;
+}
+.item_ability2{
+	margin-left: 770px;
+margin-bottom: auto;
+	font-size: 65%;
+}
+.razrabotka{
+	color: #cf7600;
+	font-size: 144%;
+	padding-left: 54px;
+}
+.item_ability3{
+	margin-left: 1002px;
+	font-size: 65%;
+}
+.CEO{
+	color: #cf7600;
+	font-size: 144%;
+	padding-left: 55px;
+}
+.item_ability4{
+	margin-left: 1352px;
+	font-size: 65%;
+}
+.marketing{
+	color: #cf7600;
+	font-size: 144%;
+	padding-left: 66px;
+}
+.cases{
+	float: left;
+	text-align: 906px;
+	padding-left: 477px;
+	margin-top: 80px;
+    text-transform: uppercase;
+    font-weight: bold;
+	width: 100%;
+	height: calc(100% - 60px);
+}
+.cherta3{
+	padding-left: 471px;
+	margin-top: 32px;
+}
+.lorem3{
+	padding-left: 19%;
+	margin-top: 32px;
+}
+.fon3{
+	margin-left: -28%;
+	margin-top: 4%;
+}
+.calculator{
+	margin-left: 333px;
+	font-weight: bold;
+	font-size: 244%;
+}
+.tip_saita1{
+font-size: 188%;
+text-align: left;
+text-transform: uppercase;
+margin-top: 3%;
+}
+.tips123{
+	width: 100%;
+	text-align: center;
+	margin-left: -35%;
+	background-color: #eeeeee;
+	margin-top: 1%;
+}
+.design{
+font-size: 188%;
+text-align: left;
+text-transform: uppercase;
+margin-top: 3%;
+}
+.design123{
+	width: 100%;
+	text-align: center;
+	margin-left: -35%;
+	background-color: #eeeeee;
+	margin-top: 1%;
+}
+.adaptive{
+font-size: 188%;
+text-align: left;
+text-transform: uppercase;
+margin-top: 3%;
+}
+.adaptive123{
+	width: 100%;
+	text-align: center;
+	margin-left: -35%;
+	background-color: #eeeeee;
+	margin-top: 1%;
+}
+.poditog{
+	width: 100%;
+	margin-top: 2%;
+}
+.srok{
+	margin-top: 1%;
+}
+.price{
+	margin-top: 1%;
+}
+.stata{
+	float: left;
+	padding-left: 647px;
+	margin-top: 41px;
+	margin-bottom: 7px;
+    text-transform: uppercase;
+    font-weight: bold;
+	width: 100%;
+	
+}
+.cherta4{
+	padding-left: 711px;
+	margin-bottom: 24%;
+}
+.fon4{
+    width: 90%;
+	height: calc(100% - 490px); 
+	background: url("../img/smile.png") 494px 248px/auto 40px no-repeat, url("../img/skobki.png") 782px 248px/auto 40px no-repeat,
+	url("../img/galochka.png") 1078px 248px/auto 40px no-repeat, url("../img/kubok.png") 1368px 248px/auto 40px no-repeat,
+	url("../img/fon4.jpg") no-repeat center/cover;
+	margin-top: 7%;
+	margin-left: -25%;-11
+}
+.number1{
+font-size: 144%;
+padding-left: 476px;
+margin-top: -8%;
+font-weight: bold;
+}
+.number2{
+font-size: 144%;
+padding-left: 762px;
+font-weight: bold;
+margin-top: -2%;
+}
+.number3{
+font-size: 144%;
+padding-left: 1036px;
+font-weight: bold;
+margin-top: 4%;
+}
+.number4{
+font-size: 144%;
+padding-left: 1348px;
+font-weight: bold;	
+padding-top: -108px;
+padding-top: -348px;
+}
+.top_text{
+	float: left;
+	padding-left: 27%;
+	margin-top: 41px;
+	margin-bottom: 7px;
+    text-transform: uppercase;
+    font-weight: bold;
+	width: 100%;
+	height: calc(100% - 60px);
+}
+.cherta5{
+	padding-left: 27%;
+	margin-top: 1%;
+}
+.topandrewbrown{
+	text-align: center;
+	margin-top: 3%;
+	margin-left: -5%;
+}
+.toplorem{
+	text-align: center;
+	margin-top: 4%;
+	margin-left: -33%;
+}
+.mihail{
+	text-align: center;
+	margin-top: 3%;
+	margin-left: -35%;
+}
+.contacts{
+	float: left;
+	padding-left: 645px;
+	margin-top: 88px;
+	margin-bottom: 7px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 24px;
+	width: 100%;
+	height: calc(100% - 60px);
+	color: #fff;
+}
+.cherta6{
+	padding-left: 724px;
+	margin-top: 1%;
+}
+.lorem7{
+	text-align: center;
+	margin-top: 2%;
+	margin-left: -7%;
+	color: #fff;
+}
+.fon5{
+    width: 100%;
+	height: calc(100% - 490px); 
+	background: url("../img/geo.png") 506px 256px/auto 36px no-repeat, url("../img/convert.png") 742px 256px/auto 36px no-repeat,
+	url("../img/phone.png") 991px 256px/auto 36px no-repeat,
+	url("../img/fon5.jpg")  no-repeat center/cover ;
+	margin-top: 4%;
+	margin-left: -25%;
+}
+.geoloc{
+    margin-left: 469px;
+	margin-top: 150px;
+	color: #fff;
+}
+.pochta{
+	margin-left: 700px;
+	color: #fff;
+}
+.telephone{
+	margin-left: 966px;
+	color: #fff;
+}
+.textmessage{
+	float: left;
+	padding-left: 645px;
+	margin-top: 88px;
+	margin-bottom: 430px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+	width: 100%;
+	height: calc(100% - 60px);
+	color: #fff;
+}
+.name{
+	float: left;
+	margin-top: -398px;
+	margin-left: 506px;
+	
+}
+.email{
+	float: left;
+	margin-top: -398px;
+	margin-left: 748px;
+}
+textarea{
+	float: left;
+	margin-top: -262px;
+	margin-left: 524px;
+	width: 440px;
+}
+.send{
+	text-align: center;
+	padding: 210px 6px;
+}
+.map{
+	float: left;
+padding-top: 0%;
+	
+}
