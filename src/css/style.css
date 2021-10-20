@@ -29,10 +29,13 @@ nav{
 }
 .title_container{
 	float: left;
-	margin: 432px 0px 0px 404px;
+	margin: 404px 0px 0px 404px;
 	color: #2c384a;
 }
 .title_container h1{
+	float: left;
+	margin-top: -111px;
+	text-align: center;
 	font-size: 60px;
 	font-weight: bold;
 }
@@ -50,54 +53,57 @@ nav{
 	color: #6d7682;
 	font-size: 13px;
 	padding: 0px 16px;
-	margin: 50px 14px 0px 14px
+	margin: 41px 14px 0px 14px
 }
 .aboutme{
 	float: left;
-	padding-left: 407px;
-	margin-top: 80px;
+	padding-left: 388px;
+	margin-top: 201px;
     text-transform: uppercase;
     font-weight: bold;
 	width: 100%;
+	font-size: 22px;
 	height: calc(100% - 60px);
 }
 .cherta{
 	float: left;
-	margin-top: 32px;
+	margin-top: 22px;
   margin-left: 404px;
 }
 .andrey{
 	float: left;
 	margin-left: -128px;
-	margin-top: 88px;
+	margin-top: 68px;
 	height: 100%;
 
 }
 .lorem1{
-	margin-top: 441px;
-	font-size: 71%;
+	margin-top: 541px;
+	margin-left: 108px;
+	font-size: 91%;
 	color: 8f949c;
 }
 .lorem2{
 	float: left;
 	margin-top: 1%;
 	text-align: center;
-	padding-left: 1px;
-	font-size: 71%;
+	padding-left: 108px;
+	font-size: 91%;
 	color: 8f949c;
 }
 .knopka{
 	float: left;
-	padding-left: 308px;
+	padding-left: 291px;
 	margin-top: -157px;
 }
 .whatican{
 	float: left;
-	padding-left: 868px;
+	padding-left: 1108px;
 	margin-top: 44px;
     text-transform: uppercase;
     font-weight: bold;
     font-size: 128%;	
+
 }
 .cherta2{
 	margin-top: 82px;
@@ -106,16 +112,17 @@ nav{
 .fon2{
 	width: 100%;
 	height: calc(100% - 490px); 
-	background: url("../img/computer.png") 511px 50%/auto 40px no-repeat, url("../img/znak.png") 786px 50%/auto 40px no-repeat,
-	url("../img/raketa.png") 1088px 50%/auto 40px no-repeat, url("../img/gramafon.png") 1374px 50%/auto 40px no-repeat,
-	url("../img/fon2.jpg") no-repeat center;
+	background: url("../img/computer.png") 651px 50%/auto 40px no-repeat, url("../img/znak.png") 926px 50%/auto 40px no-repeat,
+	url("../img/raketa.png") 1201px 50%/auto 40px no-repeat, url("../img/gramafon.png") 1476px 50%/auto 40px no-repeat,
+	url("../img/fon2.jpg") no-repeat center/cover;
 	margin-top: 196px;
-	margin-left: -25%;
+	margin-left: -37%;
 }
 .item_ability1{
-	margin-left: 454px;
+	margin-left: -601px;
 	font-size: 65%;
-	margin-top: 218px;
+	margin-top: 128px;
+	text-align: center;
 }
 .web_design{
 	color: #cf7600;
@@ -123,7 +130,9 @@ nav{
 	padding-left: 48px;	
 }
 .item_ability2{
-   padding-left: 707px;
+	float: left;
+   padding-left: 837px;
+   text-align: center;
     margin-top: -41px;
 	font-size: 65%;
 }
@@ -133,7 +142,9 @@ nav{
 	padding-left: 54px;
 }
 .item_ability3{
-	margin-left: 1002px;
+	text-align: center;
+	float: left;
+	margin-left: 1107px;
 	margin-top: -39px;
 	font-size: 65%;
 }
@@ -143,9 +154,9 @@ nav{
 	padding-left: 55px;
 }
 .item_ability4{
-	margin-left: 1352px;
+	margin-left: 1402px;
 	padding-bottom: 42px;
-	margin-top: -28px;
+	margin-top: -41px;
 	font-size: 65%;
 }
 .marketing{
@@ -162,14 +173,16 @@ nav{
     font-weight: bold;
 	width: 100%;
 	height: calc(100% - 60px);
+	font-size: 22px;
 }
 .cherta3{
-	padding-left: 411px;
+	padding-left: 424px;
 	margin-top: 32px;
 }
 .lorem3{
-	padding-left: 14%;
+	padding-left: 12%;
 	margin-top: 32px;
+	font-size: 111%;
 }
 .fon3{
 	margin-left: -28%;
@@ -237,45 +250,54 @@ margin-top: 3%;
 	margin-bottom: 7px;
     text-transform: uppercase;
     font-weight: bold;
+	font-size: 22px;
 	width: 100%;
 }
 .cherta4{
-	padding-left: 781px;
+	padding-left: 301px;
 	margin-bottom: 24%;
 }
 .fon4{
     width: 90%;
 	height: calc(100% - 490px); 
-	background: url("../img/smile.png") 494px 248px/auto 40px no-repeat, url("../img/skobki.png") 782px 248px/auto 40px no-repeat,
-	url("../img/galochka.png") 1078px 248px/auto 40px no-repeat, url("../img/kubok.png") 1368px 248px/auto 40px no-repeat,
+	background: url("../img/smile.png") 421px 221px/auto 55px no-repeat, url("../img/skobki.png") 722px 221px/auto 55px no-repeat,
+	url("../img/galochka.png") 1003px 221px/auto 55px no-repeat, url("../img/kubok.png") 1304px 221px/auto 55px no-repeat,
 	url("../img/fon4.jpg") no-repeat center/cover;
-	margin-top: 7%;
-	margin-left: -25%;-11
+		margin-top: 196px;
+	margin-left: -27%;
 }
 .number1{
 font-size: 144%;
-padding-left: 476px;
-margin-top: -8%;
+float: left;
+text-align: center;
+padding-left: 341px;
+margin-top: 16%;
 font-weight: bold;
 }
 .number2{
 font-size: 144%;
-padding-left: 762px;
+float: left;
+text-align: center;
+padding-left: 701px;
 font-weight: bold;
-margin-top: -2%;
+margin-top: -8%;
 }
 .number3{
+	float: left;
+text-align: center;
 font-size: 144%;
-padding-left: 1036px;
+padding-left: 947px;
 font-weight: bold;
-margin-top: -37px;
+margin-top: -139px;
 }
 .number4{
+	float: left;
+text-align: center;
 font-size: 144%;
-padding-left: 1348px;
+padding-left: 1268px;
 font-weight: bold;	
 padding-bottom: 141px;
-margin-top: -33px;
+margin-top: -137px;
 }
 .top_text{
 	float: left;
@@ -284,11 +306,12 @@ margin-top: -33px;
 	margin-bottom: 7px;
     text-transform: uppercase;
     font-weight: bold;
+    font-size: 22px;
 	width: 100%;
 	height: calc(100% - 60px);
 }
 .cherta5{
-	padding-left: 17%;
+	padding-left: 339px;
 	margin-top: 1%;
 }
 .topandrewbrown{
@@ -383,9 +406,9 @@ textarea{
 	width: 478px;
 }
 .send{
-	padding-left: 811px;
- padding-bottom: 750px;
-margin-bottom: -60px;
+	padding-top: -100px;
+padding-left: 777px; 
+
 }
 .map{
 	float: left;
